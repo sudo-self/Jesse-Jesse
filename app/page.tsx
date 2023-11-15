@@ -35,14 +35,14 @@ export default function Home() {
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-16 text-center animate-fade-in">
         <h2 className="text-sm text-zinc-500 ">
-          Exploring A.I. with code{" "}
+          Exploring A.I. with code and{" "}
           <Link
             target="_blank"
             href="https://jessejesse.com"
             className="underline duration-500 hover:text-zinc-300"
           >
-            JesseJesse
-          </Link>&nbsp;and chat GPT. An AI chat model based on machine learning
+            Chat-GPT
+          </Link>&nbsp;An AI chat model based on machine learning.
         </h2>
       </div>
     </div>
